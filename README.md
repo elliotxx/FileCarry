@@ -37,9 +37,9 @@ git clone https://github.com/windcode/FileCarry.git
 
 （如果你没有安装python，那么双击server.exe运行）
 
-### step 4 : 使用客户端程序发送文件
+### step 4 : 使用客户端程序发送文件给服务端
 
-当前目录命令行中运行
+当前目录命令行中执行
 
 ```client.py conf.ini FileCarry.py``` 
 
